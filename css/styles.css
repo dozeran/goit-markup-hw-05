@@ -453,6 +453,8 @@ img {
   overflow: hidden;
 }
 
+.portfolio-list-item a:hover .portfolio-discription,
+.portfolio-list-item a:focus .portfolio-discription,
 .portfolio-hidden-text:hover .portfolio-discription,
 .portfolio-hidden-text:focus .portfolio-discription {
   transform: translateY(0%);
