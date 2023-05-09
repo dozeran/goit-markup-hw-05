@@ -105,6 +105,10 @@ img {
   color: var(--hover-color);
 }
 
+.current-page {
+  color: var(--hover-color);
+}
+
 .current-page::after {
   content: "";
   background-color: var(--hover-color);
